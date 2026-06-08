@@ -78,3 +78,7 @@ echo 10.129.182.213 secrethelpdesk934752.support.futurevera.thm >> /etc/hosts
 
 <img width="1343" height="671" alt="image" src="https://github.com/user-attachments/assets/5679a98c-6e02-4d58-975a-29ab3023e914" />
 
+
+
+<img width="1554" height="787" alt="image" src="https://github.com/user-attachments/assets/8f8275ad-11dc-4dd2-a8de-7e074b56049a" />
+
